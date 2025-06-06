@@ -1,0 +1,31 @@
+{
+  "name": "react-native-diff-viewer",
+  "version": "1.0.4",
+  "description": "A React Native component for viewing and comparing JSON configurations with side-by-side diff view",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "react-native",
+    "diff",
+    "viewer",
+    "json",
+    "comparison",
+    "side-by-side",
+    "diff-viewer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-native": "^0.70.0",
+    "typescript": "^4.9.0"
+  }
+} 
