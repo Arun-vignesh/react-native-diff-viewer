@@ -2,6 +2,16 @@
 
 A React Native component for viewing and comparing JSON configurations with a side-by-side diff view.
 
+## Screenshot
+
+![React Native Diff Viewer Screenshot](https://raw.githubusercontent.com/Arun-vignesh/react-native-diff-viewer/master/images/screenshot.png)
+
+The screenshot above shows a side-by-side comparison of JSON configurations with:
+- 🟢 Green background for added items
+- 🔴 Red background for removed items
+- 🟡 Orange background for changed items
+- ⚪ Gray background for unchanged items
+
 ## Features
 
 - Side-by-side JSON diff viewer
